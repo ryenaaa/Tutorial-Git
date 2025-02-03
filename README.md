@@ -1,2 +1,2 @@
-# Tutorial-Git
-Membuat GIT pertama
+# Tutorial C++
+C++ dasar
